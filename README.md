@@ -1,0 +1,1 @@
+The lab exercises cover issues of network structure, network protocols (IP, ARP, ICMP, TCP, UDP), application protocols (FTP, TFTP, TELNET, SSH, HTTP, HTTPS, DNS, SMTP), use of protocol analysis tools and performance measurement using Wireshark.
